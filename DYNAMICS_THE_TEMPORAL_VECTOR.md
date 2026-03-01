@@ -4,7 +4,7 @@
 In standard "General Relativity", Time $t$ is treated as a coordinate—a place you are at.
 In Project # AETERNA, Time is redefined as a $Propulsive Force$ ($\Phi$).
 # 1. The Conveyor Belt Analogy
-Imagine the 4-dimensional spacetime fabric as a giant conveyor belt curved into a Lemniscate.We do not "move through" time; Time moves the fabric.This force ($\Phi$) pushes all information (galaxies, particles, light, matter, etc.) along the loop of the Lemniscate at the constant speed of $c$ (the speed of light).
+Imagine the 4-dimensional spacetime fabric as a giant conveyor belt, which is curved into a $Lemniscate$  made of hollow pipe like structure .We do not $"move through"$ time; Time moves the fabric.This force ($\Phi$) pushes all information (galaxies, particles, light, matter, etc.) along the loop of the Lemniscate at the constant speed of $c$ (the speed of light).
 # 2. The Source of Gravity
 If Time is the force pushing the fabric, Gravity is simply $Topological Resistance$.
 
