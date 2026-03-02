@@ -26,7 +26,7 @@ AETERNA resolves the Hierarchy Problem ($the$ $extreme$ $weakness$ $of$ $gravity
 
 # 4. Theoretical Synthesis ($Standing$ $on$ $the$ $Shoulders$ $of$ $Giants$)
 
-AETERNA functions as the "Great Unifier" of three established (but currently separate) proven theories:
+AETERNA functions as the "Great Unifier" of two established (but currently separate) proven theories:
 
 1. M-Theory (Edward Witten): AETERNA provides the Global Shape (The Pipe) for Witten's 11-dimensional ingredients.
 
